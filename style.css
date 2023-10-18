@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+div {
+    height: 400px;
+    width: 400px;
+    
+    border-width: 10px;
+    border-style: solid;
+    border-color: #f08080;
+
+    background-image: url(imagem04.jpg);
+    text-align: center;
+    box-shadow: inset 4px 4px 5px 5px #ffa07a;
+    background-size: cover;
+
+    outline-width: 30px;
+    outline-style: double;
+    outline-color: #20b2aa;
+
+    margin: auto;
+    margin-top: 100px;
+}
+
+h1 {
+    padding-top: 100px;
+    font-family: 'arial';
+    font-size: 50px;
+    font-weight: bolder;
+    color: #E01417;
+}
